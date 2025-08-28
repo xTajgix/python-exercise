@@ -1,0 +1,13 @@
+date,city,product,qty,price,revenue
+2020-01-01,Kraków,espresso,2,8.0,16.0
+2020-01-01,Warszawa,latte,1,14.0,14.0
+2020-01-02,Kraków,herbata,3,9.5,28.5
+2020-01-02,Gdańsk,latte,2,13.0,26.0
+2020-01-03,Kraków,espresso,1,8.5,8.5
+2020-01-03,Warszawa,herbata,4,9.0,36.0
+2020-01-04,Gdańsk,espresso,3,8.0,24.0
+2020-01-04,Kraków,latte,2,,
+2020-01-05,Warszawa,latte,3,13.5,40.5
+2020-01-05,Gdańsk,herbata,1,10.0,10.0
+2020-01-06,Kraków,espresso,4,8.0,32.0
+2020-01-06,Warszawa,herbata,2,,
