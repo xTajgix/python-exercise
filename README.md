@@ -4,6 +4,7 @@ The goal is to build a strong foundation before I'll move to machine learning.
 
 ## Contents
 01_series_dataframe.ipynb - basic examples of creating and working with pandas Series and DataFrame.
+Caffe_Challenge - Exercise for chapters 1 to 6 of the book
 
 ## Tools
 -Python 3
