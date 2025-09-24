@@ -1,0 +1,129 @@
+id_zamówienia,id_klienta,order_date,city,email,product,price,quantity,rating,coupon,returned,comment
+1004,224,2024-02-18,Lodz,piotr20@gmail.com,Headphones,119.69,4.0,4.0,welcome_2023_pl,yes,ok ok great return great problem problem
+1006,238,2024-01-18,Szczecin,alaatgmail,Monitor,535.4,2.0,1.0,VIP-2024-PL,No,great perfect problem
+1090,209,2024-04-05,Poznan,jan467@outlook.com,Mouse,180.68,2.0,4.0,WELCOME-PL,YES,perfect return great great perfect
+1082,226,2024-03-06,,ala715@yahoo.com,Keyboard,,5.0,1.0,,True,fast fast late problem refund return refund
+1042,232,2024-01-28,wroclav,ala.pl,Charger,39.39,5.0,3.0,summer_2025_uk,0,late late late refund great
+1028,200,2024-01-19 00:00:00,Wroclaw,anna590@example.org,Mouse,363.44,6.0,,spring_2024_pl,No,return perfect ok fast
+1029,216,2024-02-07,wroclav,ala332@gmail.com,Keyboard,74.8,4.0,2.0,,0,return great late late return return great
+1111,218,2024-01-21 00:00:00,Szczecin  ,ala484@example.org,Keyboard,398.53,6.0,,BLACKFRIDAY-2023-DE,True,fast fast late problem perfect problem ok
+1095,209,2024-02-25,wroclav,ola804@outlook.com,Mouse,152.91,1.0,2.0,,1,refund late
+1033,210,2024-04-01,wroclav,ala721@gmail.com,Lapotp,11112.24,4.0,2.0,SPRING-2024-PL,1,refund great
+1016,222,2024-03-02,Szczecin,anna507@onet.pl,Keyboard,-77.12,3.0,3.0,SPRING-2025-PL,No,problem fast
+1062,232,2024-04-03 00:00:00,Poznan,kasia827@yahoo.com,Keybaord,55.49,5.0,4.0,vip_2023_pl,True,return return fast
+1024,202,2024-04-12,Lodz,anna742@example.org,Mouse,345.27,5.0,1.0,BLACKFRIDAY-2025-UK,No,problem refund refund refund
+1008,207,2024-02-16 00:00:00,Szczecin  ,,Headphones,242.02,4.0,2.0,BLACKFRIDAY-2023-DE,0,late perfect fast great ok fast late
+1005,202,2024-04-10,Poznan,,Headphones,444.43,7.0,5.0,BLACKFRIDAY-2023-DE,0,great perfect
+1000,238,2024-02-21,,piotr666@yahoo.com,Keyboard,266.97,5.0,2.0,WINTER-2024-UK,yes,problem fast return refund
+1013,206,2024-01-09,,tom657@example.org,Laptop,3074.85,4.0,3.0,BLACKFRIDAY-2024-PL,no,ok refund late ok
+1074,212,2024-01-23,Poznan,kasia573@onet.pl,Laptop,1808.69,,1.0,WELCOME-PL,1,refund great fast great return perfect late
+1071,228,2024-04-29 00:00:00,Szczecin  ,tom280@outlook.com,Moniter,24.05,1.0,5.0,WELCOME2023US,YES,perfect great refund refund perfect fast
+1063,230,2024-01-10,Lodz,ala394@example.org,Smar tphone,12.0,3.0,2.0,winter_2024_uk,no,problem return
+1105,217,2024-01-30,Lodz,tom866@wp.pl,chargerr,38.21,4.0,1.0,BLACKFRIDAY2024PL,0,fast late refund late return late return
+1077,215,2024-04-26 00:00:00,,jan571@example.org,Keyboard,333.58,3.0,4.0,,1,return ok
+1031,235,2024-01-19,Szczecin,tom552@onet.pl,Smar tphone,18.48,3.0,3.0,BLACKFRIDAY-US,0,ok problem ok fast return
+1053,221,2024-02-18 00:00:00,Wroclaw,ala666@wp.pl,Moniter,44.73,2.0,3.0,WINTER-UK,False,perfect fast perfect return great
+1093,219,2024-03-17,Krakow,ola863@onet.pl,Monitor,536.56,3.0,5.0,welcome_2023_us,True,fast return late perfect return return perfect
+1110,202,2024-04-05,Wroclaw,kasia491@gmail.com,Headphones,741.26,3.0,5.0,vip_2023_us,0,perfect problem fast
+1015,227,2024-01-08 00:00:00,Poznan,kasia692@outlook.com,Laptop,2163.36,4.0,2.0,SPRING2023PL,False,late perfect
+1035,219,2024-01-24,Szczecin,ala703@yahoo.com,m ouse,44.49,1.0,4.0,BLACKFRIDAY2025US,True,problem fast problem fast
+1118,217,2024-02-07,Warszawa,piotratgmail,Headphones,419.62,,5.0,,No,ok return great ok perfect
+1019,231,2024-04-12,kraków,kasia679@gmail.com,Laptop,-10.25,6.0,5.0,vip_2023_us,yes,great return fast refund problem return
+1094,217,2024-04-24,Poznan,jan844@wp.pl,Keybaord,,7.0,1.0,,no,fast return perfect
+1099,209,2024-03-14,Poznan,jan141@onet.pl,Headphones,571.09,,1.0,WINTER-2025-DE,False,late great perfect return
+1023,226,2024-03-02,Szczecin,anna459@gmail.com,Laptop,6508.07,4.0,5.0,WINTER2024DE,0,perfect refund
+1009,205,2024-02-23,Poznan,piotr103@gmail.com,Smartphone,1189.61,4.0,5.0,BLACKFRIDAY2024DE,0,ok ok refund
+1034,201,2024-01-01,Krakow,kasia10@onet.pl,Mouse,82.6,3.0,3.0,SPRING-2025-DE,True,return refund late perfect
+1072,235,2024-01-10,poznan ,jan587@gmail.com,Keyboard,563.55,1.0,3.0,WELCOME-2025-DE,False,perfect return fast perfect ok
+1038,234,2024-03-20 00:00:00,Poznan,kasia687@yahoo.com,Keyboard,63.8,,1.0,BLACKFRIDAY-DE,YES,perfect problem late ok refund perfect fast
+1081,206,2024-02-15,Lodz,,Keyboard,642.25,2.0,1.0,summer_2024_de,yes,great fast fast
+1059,211,2024-01-26,Poznan,ala991@wp.pl,headPhones,,5.0,1.0,SPRING2023UK,0,problem perfect ok perfect problem late
+1079,238,2024-01-14,Szczecin,jan16@outlook.com,Charger,33.59,2.0,5.0,spring_2023_us,False,perfect perfect return fast
+1104,238,2024-02-07,Gdansk,olaatgmail,Moniter,48.63,2.0,2.0,,yes,problem perfect perfect
+1060,213,2024-04-01,Krakow,piotr420@example.org,Keyboard,422.72,6.0,4.0,WELCOME-PL,0,return late fast problem late late
+1021,205,2024-01-28,Gdansk,tom802@gmail.com,Monitor,1016.37,4.0,4.0,VIP-2025-UK,no,late refund problem problem great
+1011,239,2024-03-25 00:00:00,,ala708@outlook.com,Keyboard,594.59,2.0,5.0,WELCOME-DE,no,fast refund ok
+1045,230,2024-04-08,Gdansk,,Monitor,2375.75,1.0,4.0,spring_2024_de,YES,return perfect late problem problem great
+1107,216,2024-01-05 00:00:00,Lodz,anna335@wp.pl,Keyboard,273.25,5.0,2.0,winter_2023_de,1,problem late fast fast return return late
+1088,218,2024-01-20,Gdańsk,anna817@wp.pl,Laptop,5967.78,6.0,,summer_2024_us,0,perfect fast perfect perfect problem great
+1112,200,2024-01-05,Wroclaw,piotr857@onet.pl,Lapotp,12.8,4.0,2.0,WINTER-2024-PL,YES,great late great return refund late problem
+1091,225,2024-01-08,Warszawa,anna406@gmail.com,Smartphone,1668.82,5.0,1.0,WINTER-US,YES,great fast refund perfect problem
+1041,207,2024-01-27,Szczecin  ,jan68@outlook.com,Headphones,754.15,2.0,5.0,SPRING-UK,no,ok late return late great perfect problem
+1044,229,2024-04-02,Warszawa,jan796@example.org,Mouse,225.02,1.0,5.0,,False,great great return return late return
+1051,207,2024-04-19,Szczecin,piotr167@outlook.com,Mouse,168.4,4.0,3.0,BLACKFRIDAY-2023-US,YES,return perfect fast return refund
+1065,227,2024-02-01,Poznan,tom617@example.org,Headphones,982.65,4.0,4.0,summer_2023_pl,False,perfect problem late
+1076,218,2024-02-18 00:00:00,kraków,,Monitor,1151.21,6.0,4.0,blackfriday_2025_pl,yes,perfect return fast fast
+1103,229,2024-02-26,Wroclaw,ola768@wp.pl,Laptop,3870.84,2.0,3.0,SUMMER-UK,True,refund great perfect late
+1012,224,2024-02-29 00:00:00,Gdansk,ala947@wp.pl,Monitor,2377.05,5.0,1.0,VIP2025DE,1,fast perfect
+1101,227,2024-04-04,Lodz,ola860@example.org,Charger,27.69,6.0,3.0,BLACKFRIDAY-DE,False,ok problem great great
+1056,225,2024-04-26,wroclav,jan800@gmail.com,Mouse,219.72,7.0,1.0,WELCOME2024PL,No,return return return ok refund
+1020,214,2024-02-12 00:00:00,wroclav,ola686@gmail.com,Keyboard,495.14,,2.0,WINTER2024UK,YES,fast late perfect
+1050,225,2024-04-08,Gdańsk,tom720@yahoo.com,Smartphone,3481.08,5.0,4.0,,False,refund refund
+1108,201,2024-03-17 00:00:00,Gdansk,kasia694@wp.pl,m ouse,23.86,3.0,3.0,WINTER-US,False,late late great great
+1100,212,2024-01-04 00:00:00,poznan ,jan255@example.org,Mouse,276.66,1.0,1.0,SPRING-2025-UK,No,problem perfect refund
+1037,224,2024-04-02 00:00:00,Warszawa,jan466@wp.pl,Smartphone,4538.41,6.0,2.0,SPRING2024US,yes,great fast great
+1119,209,2024-02-08,Szczecin,ola643@outlook.com,Lapotp,21.9,1.0,2.0,WELCOME-2024-PL,1,return return refund refund return problem problem
+1043,234,2024-03-04,Szczecin,ala588@outlook.com,Lapotp,24.11,1.0,4.0,,False,ok problem refund fast perfect
+1001,222,2024-03-15,Warszawa,piotr72@gmail.com,Headphones,614.2,5.0,4.0,WELCOME-2023-DE,False,return return problem fast
+1054,236,2024-04-06,Szczecin,,Keybaord,44.93,,4.0,blackfriday_2025_de,no,refund great refund late fast perfect late
+1014,216,2024-01-08,Gdańsk,jan972@yahoo.com,Headphones,822.06,2.0,2.0,BLACKFRIDAY2024PL,No,late perfect
+1006,238,2024-01-18,Szczecin,alaatgmail,Monitor,1311.21,2.0,1.0,VIP-2024-PL,No,great perfect problem
+1026,211,2024-02-08 00:00:00,Szczecin,tom217@wp.pl,Smartphone,933.73,1.0,3.0,,no,great great
+1070,233,2024-04-24,Lodz,tomgmail,Laptop,5721.7,2.0,5.0,spring_2025_pl,yes,return problem ok great
+1089,202,2024-01-16 00:00:00,Wroclaw,anna171@yahoo.com,chargerr,30.06,1.0,3.0,BLACKFRIDAY2025US,No,ok return great refund late
+1030,221,2024-01-11,Gdansk,anna511@yahoo.com,Charger,52.66,5.0,3.0,SPRING-US,no,ok fast late return ok
+1087,224,2024-02-25,wroclav,tom667@example.org,Laptop,6064.99,5.0,4.0,WELCOME-DE,1,refund ok ok refund
+1015,227,2024-01-07,Poznan,kasia692@outlook.com,Laptop,6550.96,4.0,2.0,SPRING2023PL,False,late perfect
+1018,214,2024-01-15 00:00:00,Krakow,,Smartphone,3563.91,2.0,4.0,,1,return great refund problem problem ok
+1022,229,2024-03-02 00:00:00,Szczecin,tom286@onet.pl,Headphones,253.94,1.0,1.0,VIP2025US,No,great problem
+1010,225,2024-02-13,Lodz,jan216@yahoo.com,Smar tphone,34.79,7.0,4.0,,YES,return ok
+1058,200,2024-01-16,Lodz,jan782@gmail.com,Keybaord,-57.55,6.0,5.0,BLACKFRIDAY2024US,0,perfect fast great perfect
+1117,225,2024-01-14,Warszawa,ola84@onet.pl,Headphones,444.08,7.0,3.0,WELCOME-US,No,ok refund perfect return refund
+1075,219,2024-04-21,Wroclaw,anna122@outlook.com,Laptop,3834.21,6.0,5.0,vip_2025_de,YES,problem problem ok return
+1064,204,2024-04-18,Gdansk,jan868@gmail.com,Monitor,497.89,,2.0,WELCOME-UK,0,refund return
+1069,225,2024-01-08,Szczecin,piotr141@gmail.com,Keybaord,23.2,2.0,2.0,BLACKFRIDAY-2023-DE,True,perfect late perfect
+1003,232,2024-03-16,Poznan,kasia480@example.org,Smartphone,2718.42,6.0,5.0,,no,problem problem refund refund fast
+1040,232,2024-02-17,Poznan,ala54@outlook.com,Moniter,76.45,6.0,5.0,BLACKFRIDAY-PL,False,return refund late return
+1076,218,2024-02-18 00:00:00,kraków,,Monitor,1847.55,6.0,4.0,blackfriday_2025_pl,yes,perfect return fast fast
+1034,201,2024-01-01,Krakow,kasia10@onet.pl,Mouse,154.36,3.0,3.0,SPRING-2025-DE,True,return refund late perfect
+1027,201,2024-01-02,Gdansk,piotr153@wp.pl,Monitor,810.47,6.0,5.0,SUMMER2023DE,no,late problem
+1085,202,2024-02-14,Gdansk,tom76@gmail.com,Keyboard,50.49,4.0,4.0,VIP-DE,True,refund great great refund refund refund
+1052,233,2024-03-06 00:00:00,Poznan,tom620@outlook.com,chargerr,13.46,2.0,5.0,SUMMER2025US,YES,late great problem problem refund problem refund
+1007,201,2024-03-24,Poznan,ala870@outlook.com,Monitor,538.02,7.0,4.0,VIP-DE,yes,ok fast great return ok
+1048,222,2024-03-06,Warszawa,piotr394@onet.pl,Charger,41.63,,1.0,,no,perfect refund
+1061,211,2024-01-16 00:00:00,war szawa,ola565@wp.pl,Smar tphone,18.14,2.0,5.0,,True,perfect late late fast late
+1114,221,2024-04-20,Szczecin,ola944@example.org,Mouse,262.48,3.0,5.0,blackfriday_2023_us,yes,refund great
+1116,213,2024-03-30 00:00:00,,annagmail,Monitor,334.64,7.0,2.0,VIP-2023-PL,0,refund ok return late ok late
+1113,233,2024-02-19 00:00:00,Gdańsk,jan140@outlook.com,Mouse,160.21,2.0,1.0,VIP2025US,no,fast ok
+1039,220,2024-02-17,Gdansk,ala250@outlook.com,Monitor,918.65,7.0,3.0,,yes,fast problem
+1084,238,2024-03-31 00:00:00,Warszawa,anna340@onet.pl,Smar tphone,41.88,2.0,3.0,,1,perfect refund great fast great late late
+1002,221,2024-02-22, łódź,ola825@wp.pl,Smartphone,3034.39,2.0,4.0,summer_2023_uk,yes,perfect return ok return refund fast
+1067,232,2024-02-09 00:00:00,Poznan,anna514@example.org,Smartphone,3839.39,3.0,6.0,spring_2025_pl,1,late late ok return return ok
+1055,234,2024-02-24,Poznan,anna107@example.org,Moniter,7384.17,2.0,2.0,WELCOME2023PL,No,late problem fast problem return perfect
+1049,208,2024-02-12,Warszawa,jan794@wp.pl,m ouse,25.17,7.0,5.0,SUMMER-2025-UK,False,refund late return
+1068,212,2024-01-12,Poznan,anna722@onet.pl,chargerr,19.9,2.0,3.0,WELCOME2025UK,True,great perfect
+1080,222,2024-04-02,Wroclaw,,Headphones,1096.43,1.0,5.0,BLACKFRIDAY2025US,yes,fast refund return problem return perfect perfect
+1042,232,2024-01-29 00:00:00,wroclav,ala.pl,Charger,,5.0,3.0,summer_2025_uk,0,late late late refund great
+1036,207,2024-02-05, łódź,jan180@outlook.com,Mouse,37.6,6.0,1.0,blackfriday_2024_uk,True,refund problem return problem
+1078,220,2024-04-09 00:00:00,Szczecin,piotr427@example.org,Keyboard,465.22,5.0,5.0,vip_2023_uk,yes,refund great return
+1109,222,2024-02-24 00:00:00,kraków,anna132@gmail.com,Charger,54.92,4.0,4.0,WELCOME-PL,No,great ok
+1025,223,2024-03-19 00:00:00,poznan ,jan490@gmail.com,Headphones,1190.64,6.0,1.0,,yes,perfect great fast late refund
+1115,225,2024-02-05,war szawa,kasia993@outlook.com,Lapotp,26.86,,,,1,return problem problem late problem fast return
+1046,220,2024-02-01 00:00:00,,tom371@gmail.com,Charger,23.21,2.0,6.0,,0,return great problem
+1032,231,2024-03-11 00:00:00, łódź,ala420@yahoo.com,Moniter,,7.0,2.0,SUMMER2024UK,0,late return
+1073,217,2024-04-22 00:00:00,Lodz,tom681@outlook.com,chargerr,33.29,7.0,5.0,,0,return perfect great late great
+1047,230,2024-02-23 00:00:00,Szczecin,ola779@yahoo.com,Smartphone,4849.05,3.0,2.0,,No,problem return ok late perfect late problem
+1113,233,2024-02-18,Gdańsk,jan140@outlook.com,Mouse,263.1,2.0,1.0,VIP2025US,no,fast ok
+1096,210,2024-03-25,Gdansk,ola330@outlook.com,Smar tphone,21.3,,1.0,spring_2024_us,YES,late refund return return perfect ok great
+1097,226,2024-02-18,Gdansk,tom275@wp.pl,Keyboard,201.69,5.0,5.0,,1,problem problem ok problem great perfect problem
+1086,238,2024-01-01,Wroclaw,anna927@outlook.com,Headphones,611.55,5.0,4.0,winter_2025_us,no,fast refund return great return return return
+1057,200,2024-02-27,poznan ,kasia437@outlook.com,Smartphone,1545.88,6.0,1.0,WELCOME2024PL,True,late return perfect problem great perfect
+1106,232,2024-03-28 00:00:00,kraków,ala244@onet.pl,Charger,22.91,4.0,6.0,SUMMER-2023-UK,True,great fast problem return
+1083,216,2024-03-11,Lodz,anna580@gmail.com,Laptop,6958.18,,4.0,,1,return great great ok
+1017,234,2024-04-10 00:00:00,Wroclaw,tom457@outlook.com,Charger,39.9,2.0,3.0,vip_2024_uk,1,problem refund
+1102,211,2024-03-05,,ala524@outlook.com,Mouse,68.29,4.0,5.0,WINTER-UK,True,late problem perfect perfect refund return ok
+1098,202,2024-02-22,Krakow,jangmail,Charger,100.01,5.0,5.0,WINTER2023US,False,perfect problem return great great fast
+1092,226,2024-04-27,Poznan,tom177@yahoo.com,Charger,155.3,1.0,1.0,welcome_2025_pl,False,refund fast
+1066,234,2024-02-02,Krakow,anna427@example.org,Laptop,2029.48,4.0,,,False,return ok
+1109,222,2024-02-24 00:00:00,kraków,anna132@gmail.com,Charger,54.92,4.0,4.0,WELCOME-PL,No,great ok
+1089,202,2024-01-17 00:00:00,Wroclaw,anna171@yahoo.com,chargerr,32.01,1.0,3.0,BLACKFRIDAY2025US,No,ok return great refund late
